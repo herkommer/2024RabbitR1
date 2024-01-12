@@ -5,6 +5,6 @@ const app = express();
 const router = express.Router();
 
 router.get("/hello", (req, res) => res.send("Hello World!"));
-app.use("/api/", router);
+app.use("/app/", router);
 
 export const handler = serverless(app);
