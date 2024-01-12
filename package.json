@@ -1,0 +1,11 @@
+{
+  "name": "2024rabbitr1",
+  "version": "1.0.0",
+  "description": "Our great demo app using node, express on netlify serverless functions",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
